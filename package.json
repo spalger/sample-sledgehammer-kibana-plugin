@@ -1,0 +1,6 @@
+{
+  "name": "sledgehammers",
+  "version": "0.1.0",
+  "description": "An awesome Kibana plugin",
+  "main": "gulpfile.js"
+}
